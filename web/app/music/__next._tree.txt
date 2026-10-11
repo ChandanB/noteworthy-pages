@@ -1,0 +1,2 @@
+:HL["/noteworthy-pages/web/_next/static/chunks/0khwg9dn1qxm7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"app","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"music","siblings":["settings"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"egRMinG_8udAMalS5d1Zz"}
